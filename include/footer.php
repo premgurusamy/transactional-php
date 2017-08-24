@@ -4,7 +4,7 @@
   <div class="container footer-container">
   <div class="row footer-content-row">
       <div class="col-md-3 footer-content-column">
-        <a href="https://www.textlocal.in"><img class="footer-logo" style="" src="asset/images/logo-icon.png"  /></a>
+        <a href="/"><img class="footer-logo" style="" src="asset/images/logo-icon.png"  /></a>
         <!--<p>
           transactionalSMS by
           <a href="#"><strong>Textlocal</strong></a>
