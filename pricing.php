@@ -46,52 +46,62 @@
 
           <tr>
             <td>1,000 Messages</td>
-            <td class="table-price">₹250</td>
-            <td>25.0 paisa</td>
+            <td class="table-price">₹280</td>
+            <td>28.0 paisa</td>
 
           </tr>
           <tr>
             <td>2,000 Messages</td>
-            <td class="table-price">₹500</td>
-            <td>25.0 paisa</td>
+            <td class="table-price">₹560</td>
+            <td>28.0 paisa</td>
 
           </tr>
           <tr>
             <td>5,000 Messages</td>
-            <td class="table-price">₹1,250</td>
-            <td>25.0 paisa</td>
+            <td class="table-price">₹1,400</td>
+            <td>28.0 paisa</td>
           </tr>
           <tr>
             <td>10,000 Messages</td>
-            <td class="table-price">₹2,250</td>
-            <td>22.5 paisa</td>
+            <td class="table-price">₹2,500</td>
+            <td>25.0 paisa</td>
           </tr>
           <tr>
             <td>25,000 Messages</td>
-            <td class="table-price">₹5,000</td>
-            <td>20.0 paisa</td>
+            <td class="table-price">₹5,750</td>
+            <td>23.0 paisa</td>
           </tr>
           <tr>
             <td>50,000 Messages</td>
-            <td class="table-price">₹9,000</td>
-            <td>18.0 paisa</td>
+            <td class="table-price">₹10,000</td>
+            <td>20.0 paisa</td>
           </tr>
           <tr>
             <td>1,00,000 Messages</td>
-            <td class="table-price">₹14,500</td>
-            <td>14.5 paisa</td>
+            <td class="table-price">₹17,500</td>
+            <td>17.5 paisa</td>
           </tr>
           <tr>
             <td>2,50,000 Messages</td>
-            <td class="table-price">₹32,500</td>
-            <td>13.0 paisa</td>
+            <td class="table-price">₹41,250</td>
+            <td>16.5 paisa</td>
+          </tr>
+                <tr>
+            <td>5,00,000 Messages</td>
+            <td class="table-price">₹77,500</td>
+            <td>15.5 paisa</td>
+          </tr>
+                <tr>
+            <td>10,00,000 Messages</td>
+            <td class="table-price">₹1,45,000</td>
+            <td>14.5 paisa</td>
           </tr>
 
         </tbody>
       </table>
       </div><!--end of .table-responsive-->
       <p>
-        Larger bundles: Prices from 9.0 paisa per message.  <a href="contact.html" target="_blank">Contact us for a quote</a>
+        Pricing for larger bundles can go as low as 12 paisa. <a href="contact.html" target="_blank">Contact us for a quote.</a>
       </p>
         </div>
       </div>
