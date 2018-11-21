@@ -10,6 +10,11 @@
   <link rel="icon" sizes="192x192" href="asset/images/transactional-sms-logo.svg">
   <meta name="keywords" content="transactional sms,transactional sms india, transactional sms api,sms sender ID" />
 
+	
+  <!-- Fresh Chat Header Code !-->
+	<script src="https://wchat.freshchat.com/js/widget.js"></script>
+
+
 
   <!-- Font Family Embedded !-->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
@@ -42,6 +47,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </head>
 
 <body>
+	
+	
+	  <!-- Fresh Chat Body Code !-->
+
+<script>
+  window.fcWidget.init({
+    token: "6a93168f-93b0-4d4c-8359-ae78dc88fda9",
+    host: "https://wchat.freshchat.com"
+  });
+</script>
+
+
+
 	
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6GCX8B"
