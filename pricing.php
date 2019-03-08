@@ -46,20 +46,20 @@
 
           <tr>
             <td>1,000 Messages</td>
-            <td class="table-price">₹280</td>
-            <td>28.0 paisa</td>
+            <td class="table-price">₹270</td>
+            <td>27.0 paisa</td>
 
           </tr>
           <tr>
             <td>2,000 Messages</td>
-            <td class="table-price">₹560</td>
-            <td>28.0 paisa</td>
+            <td class="table-price">₹540</td>
+            <td>27.0 paisa</td>
 
           </tr>
           <tr>
             <td>5,000 Messages</td>
-            <td class="table-price">₹1,400</td>
-            <td>28.0 paisa</td>
+            <td class="table-price">₹1,250</td>
+            <td>25.0 paisa</td>
           </tr>
           <tr>
             <td>10,000 Messages</td>
@@ -68,28 +68,28 @@
           </tr>
           <tr>
             <td>25,000 Messages</td>
-            <td class="table-price">₹5,750</td>
-            <td>23.0 paisa</td>
+            <td class="table-price">₹5,625</td>
+            <td>22.5 paisa</td>
           </tr>
           <tr>
             <td>50,000 Messages</td>
-            <td class="table-price">₹10,000</td>
-            <td>20.0 paisa</td>
+            <td class="table-price">₹9,500</td>
+            <td>19.0 paisa</td>
           </tr>
           <tr>
             <td>1,00,000 Messages</td>
-            <td class="table-price">₹17,500</td>
-            <td>17.5 paisa</td>
+            <td class="table-price">₹17,000</td>
+            <td>17.0 paisa</td>
           </tr>
           <tr>
             <td>2,50,000 Messages</td>
-            <td class="table-price">₹41,250</td>
-            <td>16.5 paisa</td>
+            <td class="table-price">₹40,000</td>
+            <td>16.0 paisa</td>
           </tr>
                 <tr>
             <td>5,00,000 Messages</td>
-            <td class="table-price">₹77,500</td>
-            <td>15.5 paisa</td>
+            <td class="table-price">₹75,000</td>
+            <td>15.0 paisa</td>
           </tr>
                 <tr>
             <td>10,00,000 Messages</td>
