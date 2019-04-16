@@ -11,8 +11,12 @@
   <meta name="keywords" content="transactional sms,transactional sms india, transactional sms api,sms sender ID" />
 
 	
-  <!-- Fresh Chat Header Code !-->
-	<script src="https://wchat.freshchat.com/js/widget.js"></script>
+  <!-- Fresh Chat Header Code 	<script src="https://wchat.freshchat.com/js/widget.js"></script> !-->
+
+  <!-- IMIchat !-->
+	
+	<div id="divicw" data-bind="9c454067-5791-11e9-bf0b-0213261164bb" data-org=""></div><script src="https://attachuk.imi.chat/widget/js/imichatinit.js"></script>
+
 
 
 
@@ -49,14 +53,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body>
 	
 	
-	  <!-- Fresh Chat Body Code !-->
+	  <!-- Fresh Chat Body Code 
 
 <script>
   window.fcWidget.init({
     token: "6a93168f-93b0-4d4c-8359-ae78dc88fda9",
     host: "https://wchat.freshchat.com"
   });
-</script>
+</script>!-->
 
 
 
