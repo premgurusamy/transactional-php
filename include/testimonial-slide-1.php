@@ -1,8 +1,10 @@
-<div class="container-fluid testimonial-container">
+<div class="container-fluid testimonial-container" itemscope itemtype="http://schema.org/Review">
 <div class="row">
   <div  class=" center-block">
       <h2 class="text-center cute-section-header-text">Our Customers Love Textlocal</h3>
         <p class="text-center center-block border-line"></p>
+    
+    <p>We're <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">rated <span itemprop="ratingValue">9.6</span>/<span itemprop="bestRating">10</span> by <span itemprop="count">500+</span> customers.</p>
   </div>
 </div>
 <div class='row '>
@@ -25,7 +27,7 @@
                   </div>
                   <div class="testimonial-client-brief">
                     <h4>
-TextLocal stands out of the crowd with its one of a kind SMS delivery network, easy integration with application and best customer support. Would definitely recommend TextLocal.                    </h4>
+<span itemprop="description">TextLocal stands out of the crowd with its one of a kind SMS delivery network, easy integration with application and best customer support. Would definitely recommend TextLocal.  </span>                  </h4>
                   </div>
                     <div class="quote quote-right text-right">
                       <i class="fa fa-quote-right fa-4x"></i>
@@ -35,7 +37,7 @@ TextLocal stands out of the crowd with its one of a kind SMS delivery network, e
                 <img src="asset/images/client-face-1.png" width="100px;" class="img-circle lazy"  />
               </div>
               <div class="col-md-12 client-details text-center">
-                <h3>Zithas</h3>
+                <h3><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Zithas</span></span></h3>
                 <p>
                 </p>
               </div>
